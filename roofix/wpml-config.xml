@@ -1,0 +1,32 @@
+<wpml-config>
+    <admin-texts>
+        <key name="roofix">
+            <key name="phone" />
+            <key name="email" />
+            <key name="address" />
+            <key name="copyright_color" />
+            <key name="header_btn_txt" />
+            <key name="error_title" />
+            <key name="error_text1" />
+            <key name="error_text2" />
+            <key name="error_buttontext" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">roofix_team</custom-type>       
+        <custom-type translate="1">roofix_projects</custom-type>
+        <custom-type translate="1">roofix_services</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">roofix_team_category</taxonomy>
+        <taxonomy translate="1">roofix_projects_category</taxonomy>       
+        <taxonomy translate="1">roofix_services_category</taxonomy>
+    </taxonomies>
+    <custom-fields>
+       <custom-field action="translate">roofix_custom_page_title</custom-field>
+       <custom-field action="translate">roofix_layout</custom-field>       
+       <custom-field action="translate">roofix_services_team</custom-field>
+       <custom-field action="translate">roofix_services_services</custom-field>
+       <custom-field action="translate">roofix_services_investigations</custom-field>      
+   </custom-fields>
+</wpml-config>

@@ -1,0 +1,20 @@
+{
+    "icons": [
+    "flaticon-roof-1",
+    "flaticon-joist",
+    "flaticon-roof",
+    "flaticon-3d",
+    "flaticon-broken-house",
+    "flaticon-roof-2",
+    "flaticon-joist-1",
+    "flaticon-roof-3",
+    "flaticon-home",
+    "flaticon-clipboard",
+    "flaticon-calculator",
+    "flaticon-clock",
+    "flaticon-chill",
+    "flaticon-roof-4",
+    "flaticon-roof-5",
+    "flaticon-roof-6" 
+  ]
+}

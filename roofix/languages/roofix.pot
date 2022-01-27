@@ -1,0 +1,740 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Roofix\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-30 06:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: roofix"
+
+#: comments.php:32
+msgid " Comment"
+msgstr ""
+
+#: comments.php:29
+msgid " Comments"
+msgstr ""
+
+#: inc/helper-traits/image-trait.php:15
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: inc/general.php:474
+msgid "..."
+msgstr ""
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: template-parts/content-banner.php:13
+msgid "404 Error Page "
+msgstr ""
+
+#: woocommerce/custom/functions.php:372
+msgid "Add To Compare"
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist-icon.php:16
+#: woocommerce/custom/template-parts/wishlist2-icon.php:16
+msgid "Add to Wishlist"
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist2-icon.php:17
+msgid "Added in Wishlist! View Wishlist"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:43
+msgid "Adjust the overall layout for your site."
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist-icon.php:17
+msgid "Aleady exists in Wishlist! Click here to view Wishlist"
+msgstr ""
+
+#: template-parts/content-banner.php:23
+msgid "All Posts"
+msgstr ""
+
+#: template-parts/content-banner.php:29
+msgid "All Team"
+msgstr ""
+
+#: template-parts/content-banner.php:32
+msgid "All Team Member"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:69
+msgid "Allows you to customize some example settings for rttheme."
+msgstr ""
+
+#: template-parts/single-blog-post/content-single.php:89
+msgid "Author"
+msgstr ""
+
+#. Name of the template
+msgid "Blog 1"
+msgstr ""
+
+#. Name of the template
+msgid "Blog layout 2"
+msgstr ""
+
+#. Name of the template
+msgid "Blog layout 3"
+msgstr ""
+
+#. Name of the template
+msgid "Blog layout 4"
+msgstr ""
+
+#. Name of the template
+msgid "Blog layout 5"
+msgstr ""
+
+#. Name of the template
+msgid "Blog layout 6"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:81
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:98
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:306
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:327
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/helper-traits/utility-trait.php:100
+msgid "By"
+msgstr ""
+
+#: inc/helper-traits/utility-trait.php:21
+#: inc/helper-traits/utility-trait.php:42
+#: inc/helper-traits/utility-trait.php:61
+#: inc/helper-traits/utility-trait.php:79
+msgid "by"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-1.php:84
+#: template-parts/single-projects/content-single-projects-2.php:91
+msgid "Category"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-old2.php:79
+msgid "Category:"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-1.php:78
+#: template-parts/single-projects/content-single-projects-2.php:95
+msgid "Client"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-old2.php:82
+msgid "Client:"
+msgstr ""
+
+#: construction.php:40
+msgid "Coming Soon"
+msgstr ""
+
+#: template-parts/content-alt.php:10 template-parts/content.php:13
+#: inc/helper-traits/utility-trait.php:10
+#: inc/helper-traits/utility-trait.php:35
+#: inc/helper-traits/utility-trait.php:52
+#: inc/helper-traits/utility-trait.php:72
+#: inc/helper-traits/utility-trait.php:92
+#: template-parts/archive-blog/content-6.php:12
+#: template-parts/single-blog-post/content-simple.php:11
+msgid "Comment"
+msgstr ""
+
+#: comments.php:88
+msgid "Comment *"
+msgstr ""
+
+#: template-parts/content-alt.php:10 template-parts/content.php:13
+#: inc/helper-traits/image-trait.php:12 inc/helper-traits/utility-trait.php:10
+#: inc/helper-traits/utility-trait.php:35
+#: inc/helper-traits/utility-trait.php:52
+#: inc/helper-traits/utility-trait.php:72
+#: inc/helper-traits/utility-trait.php:92
+#: template-parts/archive-blog/content-6.php:12
+#: template-parts/single-blog-post/content-simple.php:11
+msgid "Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: woocommerce/custom/functions.php:368
+msgid "Compare"
+msgstr ""
+
+#: template-parts/archive-blog/content-6.php:50
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/general.php:284
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:136
+msgid "Dark  Primary Color"
+msgstr ""
+
+#: inc/scripts.php:135
+msgid "Day"
+msgstr ""
+
+#: comments.php:79
+msgid "Email"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-1.php:96
+#: template-parts/single-projects/content-single-projects-2.php:103
+msgid "End"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-old2.php:84
+msgid "End:"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:46
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:98
+#: inc/customizer/typography/typography-customizer.php:166
+#: inc/customizer/typography/typography-customizer.php:232
+#: inc/customizer/typography/typography-customizer.php:300
+#: inc/customizer/typography/typography-customizer.php:368
+#: inc/customizer/typography/typography-customizer.php:436
+#: inc/customizer/typography/typography-customizer.php:504
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:99
+#: inc/customizer/typography/typography-customizer.php:167
+#: inc/customizer/typography/typography-customizer.php:233
+#: inc/customizer/typography/typography-customizer.php:301
+#: inc/customizer/typography/typography-customizer.php:369
+#: inc/customizer/typography/typography-customizer.php:437
+#: inc/customizer/typography/typography-customizer.php:505
+msgid "Font Size (px)"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:339
+msgid "Footer"
+msgstr ""
+
+#: inc/general.php:339
+msgid "Footer 1"
+msgstr ""
+
+#: inc/general.php:340
+msgid "Footer 2"
+msgstr ""
+
+#: inc/general.php:341
+msgid "Footer 3"
+msgstr ""
+
+#: inc/general.php:342
+msgid "Footer 4"
+msgstr ""
+
+#: inc/general.php:343
+msgid "Footer 6"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:75
+msgid "General"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:76
+msgid "Github"
+msgstr ""
+
+#: inc/scripts.php:190
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/general.php:279
+msgid "Gray"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:179
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:149
+msgid "Header h1 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:215
+msgid "Header h2 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:283
+msgid "Header h3 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:351
+msgid "Header h4 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:419
+msgid "Header h5 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:487
+msgid "Header h6 "
+msgstr ""
+
+#: inc/general.php:332
+msgid "Header Right"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:264
+msgid "Header Top - Background Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:224
+msgid "Header Top - Link Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:244
+msgid "Header Top - Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:203
+msgid "Header Top - Text Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:360
+msgid "Heading Color"
+msgstr ""
+
+#: inc/scripts.php:136
+msgid "Hour"
+msgstr ""
+
+#: inc/customizer/customizer-defaults.php:502
+msgid "http://radiustheme.com"
+msgstr ""
+
+#: inc/customizer/customizer-defaults.php:499
+msgid "http://wordpress.org"
+msgstr ""
+
+#. URI of the theme
+msgid "https://radiustheme.com/demo/wordpress/roofix"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: inc/general.php:311
+msgid "Huge"
+msgstr ""
+
+#: woocommerce/custom/functions.php:402
+msgid "In Stock"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:71
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#: template-parts/archive-blog/content-none.php:19
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: inc/general.php:306
+msgid "Large"
+msgstr ""
+
+#: inc/general.php:289
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:117
+#: inc/customizer/typography/typography-customizer.php:185
+#: inc/customizer/typography/typography-customizer.php:251
+#: inc/customizer/typography/typography-customizer.php:319
+#: inc/customizer/typography/typography-customizer.php:387
+#: inc/customizer/typography/typography-customizer.php:455
+#: inc/customizer/typography/typography-customizer.php:523
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:118
+#: inc/customizer/typography/typography-customizer.php:186
+#: inc/customizer/typography/typography-customizer.php:252
+#: inc/customizer/typography/typography-customizer.php:320
+#: inc/customizer/typography/typography-customizer.php:388
+#: inc/customizer/typography/typography-customizer.php:456
+#: inc/customizer/typography/typography-customizer.php:524
+msgid "Line Height (px)"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:402
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:423
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:56
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:285
+msgid "Logo Background Color"
+msgstr ""
+
+#: inc/general.php:355
+msgid "MailChimp"
+msgstr ""
+
+#: inc/scripts.php:137
+msgid "Minute"
+msgstr ""
+
+#: comments.php:76
+msgid "Name"
+msgstr ""
+
+#: comments.php:57
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/content-single-pagination.php:54
+msgid "Next Post"
+msgstr ""
+
+#: inc/helper-traits/image-trait.php:11
+msgid "No Comments"
+msgstr ""
+
+#: inc/general.php:301
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:11
+#: template-parts/archive-blog/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/general.php:333
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: comments.php:56
+msgid "Older Comments"
+msgstr ""
+
+#: woocommerce/custom/functions.php:402
+msgid "Out of Stock"
+msgstr ""
+
+#: template-parts/content-page.php:18
+#: template-parts/single-blog-post/content-single.php:37
+msgid "Pages:"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:66
+msgid "Pinterest"
+msgstr ""
+
+#: template-parts/content-single-pagination.php:40
+msgid "Previous Post"
+msgstr ""
+
+#: inc/general.php:269 inc/general.php:331
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:117
+msgid "Primary Color"
+msgstr ""
+
+#: inc/general.php:244
+msgid "Primary to Secondary"
+msgstr ""
+
+#: inc/general.php:249
+msgid "Primary to Tertiary"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:44
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-1.php:72
+#: template-parts/single-projects/content-single-projects-2.php:79
+#: template-parts/single-projects/content-single-projects-old2.php:74
+msgid "Project Information"
+msgstr ""
+
+#: inc/helper-traits/impure-trait.php:21 inc/helper-traits/impure-trait.php:45
+msgid "Project Name"
+msgstr ""
+
+#: inc/helper.php:120
+msgid "Project Sidebar "
+msgstr ""
+
+#. Name of the template
+msgid "Projects Archive 1"
+msgstr ""
+
+#. Name of the template
+msgid "Projects Archive 2"
+msgstr ""
+
+#. Name of the template
+msgid "Projects Archive 3"
+msgstr ""
+
+#: inc/customizer/customizer-defaults.php:498
+msgid "Proudly powered by"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/custom/functions.php:218 woocommerce/custom/functions.php:222
+msgid "QuickView"
+msgstr ""
+
+#: inc/customizer/customizer-defaults.php:503
+msgid "Radius  Themes"
+msgstr ""
+
+#: inc/customizer/customizer-defaults.php:504
+msgid "Radius theme "
+msgstr ""
+
+#. Author of the theme
+msgid "RadiusTheme"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-1.php:106
+#: template-parts/single-projects/content-single-projects-2.php:111
+msgid "Rating"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-old2.php:86
+msgid "Rating:"
+msgstr ""
+
+#: template-parts/content-search.php:17
+#: template-parts/archive-services/content-services-2-old.php:46
+#: template-parts/archive-services/content-services-2.php:69
+#: template-parts/archive-services/content-services-3.php:34
+msgid "READ MORE"
+msgstr ""
+
+#: template-parts/archive-blog/content-2.php:48
+#: template-parts/archive-blog/content-3.php:48
+#: template-parts/single-blog-post/content-simple.php:42
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:15
+#: template-parts/archive-blog/content-none.php:14
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>"
+msgstr ""
+
+#: comments.php:45
+msgid "Reply"
+msgstr ""
+
+#. Name of the theme
+msgid "Roofix"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Roofix | Responsive WordPress Roofix Theme is one of the Latest and World "
+"Standard Multipurpose Responsive WordPress Roofix Theme."
+msgstr ""
+
+#: footer.php:18
+msgid "Search Here..."
+msgstr ""
+
+#: inc/general.php:453
+msgid "Search Keywords ..."
+msgstr ""
+
+#: template-parts/content-banner.php:16
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/scripts.php:138
+msgid "Second"
+msgstr ""
+
+#: inc/general.php:274
+msgid "Secondary"
+msgstr ""
+
+#: inc/general.php:254
+msgid "Secondary to Tertiary"
+msgstr ""
+
+#: inc/customizer/customizer-defaults.php:500
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#. Name of the template
+msgid "Services Archive 1"
+msgstr ""
+
+#: template-parts/content-banner.php:36
+msgid "Shop"
+msgstr ""
+
+#: inc/general.php:365
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/general.php:346 inc/helper.php:119
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:46
+msgid "Skip to content"
+msgstr ""
+
+#: inc/general.php:296
+msgid "Small"
+msgstr ""
+
+#: template-parts/content-none.php:17
+#: template-parts/archive-blog/content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:81
+msgid "Stackoverflow"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-1.php:91
+#: template-parts/single-projects/content-single-projects-2.php:99
+msgid "Start"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-old2.php:83
+msgid "Start:"
+msgstr ""
+
+#. Name of the template
+msgid "Team archive 1"
+msgstr ""
+
+#. Name of the template
+msgid "Team archive 2"
+msgstr ""
+
+#. Name of the template
+msgid "Team archive 3"
+msgstr ""
+
+#: inc/general.php:259
+msgid "Tertiary to Primary"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:381
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:66
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer/customizer-color.php:155
+msgid "Title Color"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:51
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:42
+#: inc/customizer/typography/typography-customizer.php:59
+msgid "Typography"
+msgstr ""
+
+#: comments.php:82
+#: template-parts/single-projects/content-single-projects-1.php:101
+#: template-parts/single-projects/content-single-projects-2.php:107
+msgid "Website"
+msgstr ""
+
+#: template-parts/single-projects/content-single-projects-old2.php:85
+msgid "Website:"
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist-icon.php:39
+msgid "WishList"
+msgstr ""
+
+#: inc/customizer/customizer-defaults.php:501
+msgid "WordPress"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/views/comments-callback.php:46
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:61
+msgid "Youtube"
+msgstr ""
